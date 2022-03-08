@@ -1,47 +1,47 @@
 track C1
-bigDataUrl mm10/C1.beta.bw
+bigDataUrl C1.beta.bw
 shortLabel C1
 longLabel C1
 type bigWig
 
 track C2
-bigDataUrl mm10/C2.beta.bw
+bigDataUrl C2.beta.bw
 shortLabel C2
 longLabel C2
 type bigWig
 
 track C3
-bigDataUrl mm10/C3.beta.bw
+bigDataUrl C3.beta.bw
 shortLabel C3
 longLabel C3
 type bigWig
 
 track S1
-bigDataUrl mm10/S1.beta.bw
+bigDataUrl S1.beta.bw
 shortLabel S1
 longLabel S1
 type bigWig
 
 track S2
-bigDataUrl mm10/S2.beta.bw
+bigDataUrl S2.beta.bw
 shortLabel S2
 longLabel S2
 type bigWig
 
 track S3
-bigDataUrl mm10/S3.beta.bw
+bigDataUrl S3.beta.bw
 shortLabel S3
 longLabel S3
 type bigWig
 
 track DMR
-bigDataUrl mm10/CTRLvsSEVERE.bw
+bigDataUrl CTRLvsSEVERE.bw
 shortLabel DMR
 longLabel DMR
 type bigWig
 
 track Probes
-bigDataUrl mm10/probe.bb
+bigDataUrl probe.bb
 shortLabel Probes  
 longLabel Mouse methylation array probes
 type bigBed
