@@ -36,8 +36,8 @@ type bigWig
 
 track DMR_meandiff
 bigDataUrl CTRLvsSEVERE.bw
-shortLabel DMR
-longLabel DMR
+shortLabel DMR_meandiff
+longLabel DMR_meandiff
 type bigWig
 
 track Probes
