@@ -34,7 +34,7 @@ shortLabel S3
 longLabel S3
 type bigWig
 
-track DMR
+track DMR_meandiff
 bigDataUrl CTRLvsSEVERE.bw
 shortLabel DMR
 longLabel DMR
@@ -44,4 +44,10 @@ track Probes
 bigDataUrl probe.bb
 shortLabel Probes  
 longLabel Mouse methylation array probes
+type bigBed
+
+track DMR
+bigDataUrl DMR.bb
+shortLabel DMR
+longLabel DMR
 type bigBed
